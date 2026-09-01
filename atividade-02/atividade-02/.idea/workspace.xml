@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87367882-8445-4759-837e-f3d928dacc22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/Sistema Operacional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoundedBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SleepUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividade-02.iml" afterDir="false" />
-    </list>
+    <list default="true" id="87367882-8445-4759-837e-f3d928dacc22" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +17,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3INssyQpyxWCpkXYwV9I84mELr8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,10 +39,16 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nando/Desktop/Sistema Operacional/atividade-02/atividade-02",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nando\Desktop\Sistema Operacional\atividade-02\atividade-02" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Factory">
     <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factory" />
@@ -88,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787616572471</updated>
       <workItem from="1787616577125" duration="779000" />
+      <workItem from="1787617386612" duration="208000" />
     </task>
     <servers />
   </component>
